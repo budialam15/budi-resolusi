@@ -1,0 +1,6 @@
+RENCANA KONTEN BUDI
+- pembelajaraan mikrotik
+ - pengenalan mikrotik
+- pembelajaraan Debian
+ - instalasi debian
+- pembelajaraan pemograman dasar
