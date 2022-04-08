@@ -4,3 +4,4 @@ RENCANA KONTEN BUDI
 - pembelajaraan Debian
  - instalasi debian
 - pembelajaraan pemograman dasar
+- basic jaringan dasar
