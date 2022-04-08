@@ -1,7 +1,7 @@
 RENCANA KONTEN BUDI
 - pembelajaraan mikrotik
  - pengenalan mikrotik
+  ^ fungsi mikrotik
 - pembelajaraan Debian
  - instalasi debian
 - pembelajaraan pemograman dasar
-- basic jaringan dasar
