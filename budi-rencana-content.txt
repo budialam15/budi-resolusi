@@ -2,6 +2,7 @@ RENCANA KONTEN BUDI
 - pembelajaraan mikrotik
  - pengenalan mikrotik
   ^ sejarah mikrotik
+  ^ jenis alat
 - pembelajaraan Debian
  - instalasi debian
 - pembelajaraan pemograman dasar
