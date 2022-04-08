@@ -4,3 +4,4 @@ Budi RESOLUSI
 - menguasai laravel
 - konsisten belajara komputer setiap harinya
 - olahraga setiap hari minimal 15 menit
+- rajin membuat modul
